@@ -1,16 +1,73 @@
-# React + Vite
+# 🎧 Digital Store
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Welcome to **Digital Store**, a modern online shopping website currently under development. The goal of this project is to create a clean, fast, and user-friendly digital marketplace where customers can explore and purchase quality electronic products.
 
-Currently, two official plugins are available:
+## 🚀 Current Products
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+The store currently focuses on:
 
-## React Compiler
+* 🎧 Headphones
+* 🎵 Wireless Headphones
+* 🔊 Audio Accessories
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+More digital and electronic products will be added as the project develops.
 
-## Expanding the Oxlint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+* 🛍️ Modern online store interface
+* 🎧 Headphone product listings
+* 🔎 Product browsing and search
+* 🛒 Shopping cart
+* 📱 Responsive design
+* 💳 Online shopping experience
+* ⚡ Fast and user-friendly interface
+* 🔄 Continuously improving and adding new features
+
+## 🛠️ Technologies
+
+This project is being developed using modern web technologies such as:
+
+* HTML5
+* CSS3
+* JavaScript
+* React.js
+* Tailwind CSS
+
+> Technologies may change as the project continues to develop.
+
+## 📂 Project Status
+
+🚧 **Currently Under Development**
+
+The first version of the store is focused on headphones. New products, features, and improvements will be added over time.
+
+## 🎯 Future Plans
+
+* Add more electronic products
+* User authentication
+* Product categories
+* Product filtering and sorting
+* Wishlist functionality
+* Secure payment integration
+* Order tracking
+* User reviews and ratings
+* Admin dashboard
+* Improved mobile experience
+
+## 💡 Purpose
+
+This project is being developed as a modern digital shopping platform and as a practical web-development project to experiment with e-commerce design, functionality, and user experience.
+
+## 📸 Preview
+
+Screenshots and live demo links will be added as the project develops.
+
+## 📌 Note
+
+This project is currently under active development. Features and design may change as new updates are introduced.
+
+---
+
+⭐ **If you like this project, consider giving the repository a star!**
+
+**Made with ❤️ and code.**
